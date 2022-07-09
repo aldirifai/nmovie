@@ -4,11 +4,11 @@
 <link rel="stylesheet" href="{{ asset('vendor/datatables/datatables.min.css') }}">
 
 <style>
-    .navbar {
-        background-color: #FAC900 !important;
-    }
-
     body {
         font-family: 'Nunito', sans-serif;
+    }
+
+    .pagination {
+        justify-content: center;
     }
 </style>

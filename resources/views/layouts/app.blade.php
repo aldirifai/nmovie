@@ -9,7 +9,7 @@
 
     @include('layouts.styles')
 
-    <title>Midwifery</title>
+    <title>Natindo Movie</title>
 </head>
 
 <body class="bg-light">
