@@ -66,7 +66,7 @@ Untuk mengkses aplikasi pastikan aplikasi sudah berjalan atau jika belum maka ja
 php artisan serve
 ```
 
-Untuk mengkses dokumentasi silakan salin URL berikut ke browser anda
+Untuk mengkses aplikasi silakan salin URL berikut ke browser anda
 
 ```bash
 http://127.0.0.1:8000
